@@ -1,4 +1,2 @@
 <?php
-
-
-echo 'Bootcamp index theme';
+// Nothing here!
