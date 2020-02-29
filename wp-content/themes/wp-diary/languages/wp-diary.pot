@@ -1,0 +1,853 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Diary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19 16:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.2.2"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "error"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#. 1: title.
+#: comments.php:37
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the theme
+#: footer.php:49 inc/customizer/mt-customizer-footer-panel-options.php:61
+#: inc/welcome/mt-welcome.php:459
+msgid "WP Diary"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:56
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:62
+msgid "Primary"
+msgstr ""
+
+#: functions.php:63
+msgid "Footer"
+msgstr ""
+
+#: header.php:40
+msgid "Skip To Content"
+msgstr ""
+
+#: header.php:127
+msgid "Menu"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: inc/mt-class-breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: inc/mt-class-breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: inc/mt-class-breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/mt-class-breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/mt-class-breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:788 inc/mt-class-breadcrumbs.php:817
+#: inc/mt-class-breadcrumbs.php:844 inc/mt-class-breadcrumbs.php:871
+#: inc/mt-class-breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:789 inc/mt-class-breadcrumbs.php:845
+#: inc/mt-class-breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:790 inc/mt-class-breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/mt-class-breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/mt-custom-hooks.php:116
+msgid "Back To Top"
+msgstr ""
+
+#: inc/mt-custom-hooks.php:159
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Lora translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:93
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:101
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:313
+msgid "Select Category"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:51
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:73
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:98
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:101
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:107
+#: inc/customizer/mt-customizer-design-panel-options.php:52
+#: inc/customizer/mt-customizer-slider-section-options.php:51
+#: template-parts/slider/content-slider.php:14
+msgid "Discover"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:117 template-parts/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:207
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-audio.php:63 template-parts/content-gallery.php:97
+#: template-parts/content-search.php:55 template-parts/content-video.php:63
+#: template-parts/content.php:65
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/mt-customizer-additional-panel-options.php:15
+msgid "Add Social Icons"
+msgstr ""
+
+#: inc/customizer/mt-customizer-additional-panel-options.php:16
+msgid "Drag & Drop items to re-arrange the order"
+msgstr ""
+
+#: inc/customizer/mt-customizer-additional-panel-options.php:24
+#: inc/customizer/mt-customizer-additional-panel-options.php:41
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer/mt-customizer-additional-panel-options.php:47
+msgid "Social Link URL"
+msgstr ""
+
+#: inc/customizer/mt-customizer-additional-panel-options.php:60
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/mt-customizer-additional-panel-options.php:72
+msgid "Enable Prettyphoto in Post/Page Gallery"
+msgstr ""
+
+#: inc/customizer/mt-customizer-design-panel-options.php:15
+msgid "Archive/Blog Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/mt-customizer-design-panel-options.php:33
+msgid "Archive/Blog Style"
+msgstr ""
+
+#: inc/customizer/mt-customizer-design-panel-options.php:50
+#: inc/customizer/mt-customizer-slider-section-options.php:49
+msgid "Read More Button"
+msgstr ""
+
+#: inc/customizer/mt-customizer-design-panel-options.php:62
+msgid "Posts Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/mt-customizer-design-panel-options.php:80
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/mt-customizer-design-panel-options.php:92
+msgid "Pages Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/mt-customizer-footer-panel-options.php:16
+msgid "Enable Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/mt-customizer-footer-panel-options.php:28
+msgid "Widget Area Layout"
+msgstr ""
+
+#: inc/customizer/mt-customizer-footer-panel-options.php:46
+msgid "Enable Footer Menu"
+msgstr ""
+
+#: inc/customizer/mt-customizer-footer-panel-options.php:59
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/mt-customizer-general-panel-options.php:15
+msgid "Enable Wow Animation"
+msgstr ""
+
+#: inc/customizer/mt-customizer-general-panel-options.php:28
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/mt-customizer-general-panel-options.php:44
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/mt-customizer-header-panel-options.php:15
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: inc/customizer/mt-customizer-header-panel-options.php:28
+msgid "Enable Sidebar Menu Icon"
+msgstr ""
+
+#: inc/customizer/mt-customizer-header-panel-options.php:41
+msgid "Enable Search Icon"
+msgstr ""
+
+#: inc/customizer/mt-customizer-panels.php:15
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-panels.php:24
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-panels.php:33
+msgid "Design Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-panels.php:42
+msgid "Additional Features"
+msgstr ""
+
+#: inc/customizer/mt-customizer-panels.php:50
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:14
+msgid "Site Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:24
+msgid "Extra Options"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:34
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:43
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:53
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:63
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:73
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:83 inc/welcome/mt-welcome.php:495
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:92
+msgid "PrettyPhoto Setting"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:102
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/mt-customizer-sections.php:112
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/customizer/mt-customizer-slider-section-options.php:15
+msgid "Enable Slider Section"
+msgstr ""
+
+#: inc/customizer/mt-customizer-slider-section-options.php:28
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/mt-customizer.php:32
+msgid "Header Image for only Innerpages"
+msgstr ""
+
+#: inc/customizer/mt-customizer.php:64
+msgid "Buy WP Diary Pro"
+msgstr ""
+
+#: inc/metaboxes/mt-post-sidebar-meta.php:18
+#: inc/metaboxes/mt-post-sidebar-meta.php:27
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metaboxes/mt-post-sidebar-meta.php:44
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metaboxes/mt-post-sidebar-meta.php:50
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metaboxes/mt-post-sidebar-meta.php:56
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metaboxes/mt-post-sidebar-meta.php:62
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/metaboxes/mt-post-sidebar-meta.php:68
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:35
+msgid "Welcome"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:73
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:77
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:93
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:94
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$s welcome page %3$s."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:95
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:117
+#, php-format
+msgid "About %1$s"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:119
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:132
+msgid "Theme Info"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:134
+msgid "View Demo"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:136 inc/welcome/mt-welcome.php:215
+msgid "View PRO version"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:138
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:139 inc/welcome/mt-welcome.php:234
+#: inc/welcome/mt-welcome.php:236
+msgid "More Tutorials"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:148
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:152
+msgid "More Themes"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:156
+msgid "Changelog"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:195
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:196
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:197 inc/welcome/mt-welcome.php:291
+msgid "Customize"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:201 inc/welcome/mt-welcome.php:203
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:202
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:207
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:208
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:209
+msgid "Support"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:213
+msgid "Need more features?"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:214 inc/welcome/mt-welcome.php:453
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:219
+msgid "Have you need customization?"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:220
+msgid "Please send message with your requirement."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:221
+msgid "Customization"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:227
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:235
+msgid ""
+"Read more tutorials related to WordPress, which helps to setup your awesome "
+"website."
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:245
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:245
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:248
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:248
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:289
+msgid "Active"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:328
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:337
+msgid "Install Now"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:340
+msgid "Live Preview"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:401
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:458
+msgid "Features"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:460
+msgid "WP Diary Pro"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:465
+msgid "Price"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:466
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:467
+msgid "$55"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:470
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:475
+msgid "Pre Loaders Layouts"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:480
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:481 inc/welcome/mt-welcome.php:491
+msgid "1"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:482 inc/welcome/mt-welcome.php:486
+#: inc/welcome/mt-welcome.php:492
+msgid "3"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:485
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:487
+msgid "5"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:490
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:500
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:501
+msgid "2"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:502
+msgid "800+"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:505
+msgid "Image Hover Features"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:510
+msgid "Custom 404 Page"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:515
+msgid "Typography Options"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:520
+msgid "WooCommerce Plugin Compatible"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:525
+msgid "GDPR Compatible"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:533
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/welcome/mt-welcome.php:555
+#, php-format
+msgid ""
+"If you like <strong>%1$s</strong> please leave us a %2$s rating. A huge "
+"thank you from <strong>Mystery Themes</strong> in advance!"
+msgstr ""
+
+#: inc/widgets/mt-author-info.php:20
+msgid "Select the user to display the author info."
+msgstr ""
+
+#: inc/widgets/mt-author-info.php:22
+msgid "MT: Author Info"
+msgstr ""
+
+#: inc/widgets/mt-author-info.php:35 inc/widgets/mt-latest-posts.php:35
+#: inc/widgets/mt-social-media.php:35
+msgid "Widget title"
+msgstr ""
+
+#: inc/widgets/mt-author-info.php:41
+msgid "Select Author"
+msgstr ""
+
+#: inc/widgets/mt-author-info.php:48
+msgid "Author Image"
+msgstr ""
+
+#: inc/widgets/mt-latest-posts.php:20
+msgid "A widget to display the latest posts with thumbnail."
+msgstr ""
+
+#: inc/widgets/mt-latest-posts.php:22
+msgid "MT: Latest Posts"
+msgstr ""
+
+#: inc/widgets/mt-latest-posts.php:41
+msgid "Post Order"
+msgstr ""
+
+#: inc/widgets/mt-latest-posts.php:45
+msgid "Default Order"
+msgstr ""
+
+#: inc/widgets/mt-latest-posts.php:46
+msgid "Random Order"
+msgstr ""
+
+#: inc/widgets/mt-latest-posts.php:52
+msgid "Post Count"
+msgstr ""
+
+#: inc/widgets/mt-social-media.php:20
+msgid "A widget shows the social media icons."
+msgstr ""
+
+#: inc/widgets/mt-social-media.php:22
+msgid "MT: Social Media"
+msgstr ""
+
+#: inc/widgets/mt-widget-fields.php:71
+msgid "- - Select User - -"
+msgstr ""
+
+#: inc/widgets/mt-widget-fields.php:120
+msgid "No image selected"
+msgstr ""
+
+#: inc/widgets/mt-widget-fields.php:127
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/mt-widget-fields.php:128
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/mt-widget-functions.php:23
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/mt-widget-functions.php:25
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/mt-widget-functions.php:38
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: inc/widgets/mt-widget-functions.php:40
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: template-parts/author/author-box.php:41
+msgid "Website"
+msgstr ""
+
+#: template-parts/related/related-posts.php:25
+msgid "Related Posts"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP Diary is a Free WordPress Theme crafted for your blog, portfolio or news "
+"magazine. It has a unique, modern, light and clean design which will make "
+"your website look awesome. It is completely built on Customizer which allows "
+"you to customize most of the theme settings easily with live previews. This "
+"theme comes with 3 different archive layouts and other exciting features "
+"that allow you to customize the theme easily without coding knowledge. Get "
+"free support at https://mysterythemes.com/support/forum/themes/free-themes/ "
+"and check the demo at https://demo.mysterythemes.com/wp-diary-landing/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com/wp-themes/wp-diary"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr ""

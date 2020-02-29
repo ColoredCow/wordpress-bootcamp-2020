@@ -1,0 +1,258 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCount\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-05 10:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:228
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:51
+msgid ", "
+msgstr ""
+
+#: functions.php:201
+msgid "Add widgets here."
+msgstr ""
+
+#: index.php:20
+msgid "Archive"
+msgstr ""
+
+#: index.php:26
+msgid "Category"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post
+#. %s: Name of current post. Only visible to screen readers
+#. %s: Name of current post. Only visible to screen readers
+#: functions.php:241 template-parts/content-single.php:41
+#: template-parts/content.php:53
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:88 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer Area 1"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Area 2"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Area 3"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Area 4"
+msgstr ""
+
+#: footer.php:58
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpcount.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpcount.com/downloads/wpcount-wordpress-template/"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:71
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: functions.php:103
+msgid "Menu widget"
+msgstr ""
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:52
+#: template-parts/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:34
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:60
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. %s: search query.
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: index.php:22
+msgid "Select Month"
+msgstr ""
+
+#: functions.php:199
+msgid "Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:61
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:46
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/woocommerce.php:226
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:124
+msgid "Widgets in this area will be shown on footer1."
+msgstr ""
+
+#: functions.php:141
+msgid "Widgets in this area will be shown on footer2."
+msgstr ""
+
+#: functions.php:157
+msgid "Widgets in this area will be shown on footer3."
+msgstr ""
+
+#: functions.php:173
+msgid "Widgets in this area will be shown on footer4."
+msgstr ""
+
+#: functions.php:107
+msgid "Widgets in this area will be shown on menu."
+msgstr ""
+
+#. Name of the theme
+#. Author of the theme
+msgid "WPCount"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:65
+#, php-format
+msgid "wpcount Developed by %2$s."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WPCount is a responsive WordPress grid theme, it features multiple sections "
+"on the front page as well as widgets, navigation and more. Personalize its "
+"asymmetrical grid and showcase your multimedia content."
+msgstr ""
