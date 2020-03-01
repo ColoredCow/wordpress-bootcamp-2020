@@ -10,3 +10,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: bootcamp-2020
 Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
 */
+
+.logo {
+	height: 50px;
+}
+.menu-item {
+	padding: 0 10px;
+}
+header .menu-item a {
+	color: red;
+}
+footer .menu-item a {
+	color: white;
+}
