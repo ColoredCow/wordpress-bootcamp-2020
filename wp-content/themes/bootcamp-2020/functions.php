@@ -27,5 +27,6 @@ function mytheme_setup() {
  			'flex-height' => false,
  		)
  	);
+
 }
 add_action( 'after_setup_theme', 'mytheme_setup' );

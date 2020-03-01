@@ -27,27 +27,26 @@
 				} else {
 				        echo '<h1>'. get_bloginfo( 'name' ) .'</h1>';
 				} ?>
-				</a>
+			</a>
+
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 
 			<?php wp_nav_menu( array( 'theme_location' => 'menu-1' ) ); ?>
 		</nav>
-		<?php while ( have_posts() ) {
-				the_post(); ?>
-					<img src="<?php echo get_the_post_thumbnail_url(); ?>" class="w-100">
-				<?php the_content();
-			} ?>
-		
 
-		<div class="container">
-			<?php while ( have_posts() ) {
-				the_post();
+		<?php while ( have_posts() ) : the_post(); ?>
 
-				the_content();
-			} ?>
-		</div>
+			<!-- Featured Image -->
+			<img src="<?php echo get_the_post_thumbnail_url(); ?>" class="w-100">
+
+			<!-- Page Content -->
+			<div class="container">
+				<?php the_content(); ?>
+			</div>
+
+		<?php endwhile; ?>
 
 
 
